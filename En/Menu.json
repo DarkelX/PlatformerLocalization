@@ -1,0 +1,10 @@
+{
+  "Menu" : 
+  [
+	{"Key" : "text_pause", "Value" : "PAUSE"},
+    {"Key" : "button_continue", "Value" : "CONTINUE"},
+    {"Key" : "button_options", "Value" : "OPTIONS"},
+	{"Key" : "button_restart", "Value" : "RESTART"},
+	{"Key" : "button_exit", "Value" : "EXIT"}
+  ]
+}

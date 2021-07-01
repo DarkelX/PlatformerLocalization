@@ -1,0 +1,9 @@
+{
+  "Options" :
+  [
+	{"Key" : "text_options", "Value" : "OPTIONS"},
+	{"Key" : "text_music", "Value" : "MUSIC"},
+	{"Key" : "text_sfx", "Value" : "SFX"},
+	{"Key" : "button_ok", "Value" : "OK"}
+  ]
+}
