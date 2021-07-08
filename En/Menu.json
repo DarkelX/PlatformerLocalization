@@ -1,5 +1,5 @@
 {
-  "Menu" : 
+  "locale" : 
   [
 	{"Key" : "text_pause", "Value" : "PAUSE"},
     {"Key" : "button_continue", "Value" : "CONTINUE"},

@@ -1,0 +1,7 @@
+{
+  "locale" :
+  [
+	{"Key" : "text_language", "Value" : "LANGUAGE"},
+	{"Key" : "button_back", "Value" : "BACK"}
+  ]
+}

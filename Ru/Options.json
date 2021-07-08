@@ -1,0 +1,9 @@
+{
+  "locale" :
+  [
+	{"Key" : "text_options", "Value" : "ОПЦИИ"},
+	{"Key" : "text_music", "Value" : "МУЗЫКА"},
+	{"Key" : "text_sfx", "Value" : "SFX"},
+	{"Key" : "button_ok", "Value" : "ОК"}
+  ]
+}

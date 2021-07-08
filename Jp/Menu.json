@@ -1,0 +1,10 @@
+{
+  "locale" : 
+  [
+	{"Key" : "text_pause", "Value" : "一時停止"},
+    {"Key" : "button_continue", "Value" : "継続する"},
+    {"Key" : "button_options", "Value" : "オプション"},
+	{"Key" : "button_restart", "Value" : "再起動"},
+	{"Key" : "button_exit", "Value" : "出口"}
+  ]
+}

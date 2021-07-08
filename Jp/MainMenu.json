@@ -1,0 +1,10 @@
+{
+  "locale" : 
+  [
+	{"Key" : "text_mainMenu", "Value" : "メインメニュー"},
+    {"Key" : "button_start", "Value" : "開始"},
+    {"Key" : "button_options", "Value" : "オプション"},
+	{"Key" : "button_language", "Value" : "言語"},
+	{"Key" : "button_exit", "Value" : "出口"}
+  ]
+}

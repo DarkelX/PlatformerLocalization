@@ -1,0 +1,10 @@
+{
+  "locale" : 
+  [
+	{"Key" : "text_pause", "Value" : "ПАУЗА"},
+    {"Key" : "button_continue", "Value" : "ПРОДОЛЖИТЬ"},
+    {"Key" : "button_options", "Value" : "ОПЦИИ"},
+	{"Key" : "button_restart", "Value" : "ПЕРЕЗАПУСТИТЬ"},
+	{"Key" : "button_exit", "Value" : "ВЫХОД"}
+  ]
+}
