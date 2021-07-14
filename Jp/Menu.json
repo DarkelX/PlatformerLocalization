@@ -1,5 +1,5 @@
 {
-  "locale" : 
+  "Locale" : 
   [
 	{"Key" : "text_pause", "Value" : "一時停止"},
     {"Key" : "button_continue", "Value" : "継続する"},

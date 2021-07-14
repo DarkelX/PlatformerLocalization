@@ -1,5 +1,5 @@
 {
-  "locale" : 
+  "Locale" : 
   [
 	{"Key" : "text_pause", "Value" : "ПАУЗА"},
     {"Key" : "button_continue", "Value" : "ПРОДОЛЖИТЬ"},

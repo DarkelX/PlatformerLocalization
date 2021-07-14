@@ -1,5 +1,5 @@
 {
-  "locale" : 
+  "Locale" : 
   [
 	{"Key" : "text_mainMenu", "Value" : "メニュー"},
     {"Key" : "button_start", "Value" : "開始"},

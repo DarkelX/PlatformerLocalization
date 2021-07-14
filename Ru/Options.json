@@ -1,5 +1,5 @@
 {
-  "locale" :
+  "Locale" :
   [
 	{"Key" : "text_options", "Value" : "ОПЦИИ"},
 	{"Key" : "text_music", "Value" : "МУЗЫКА"},
