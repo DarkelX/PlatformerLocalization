@@ -1,7 +1,7 @@
 {
-  "Locale" :
+  "_locale" :
   [
-	{"Key" : "En", "Value" : "0.0.0.1"},
+	{"_key" : "En", "_value" : "0.0.0.1"},
 	{"Key" : "Ru", "Value" : "0.0.0.1"},
 	{"Key" : "Jp", "Value" : "0.0.0.1"}
   ]
