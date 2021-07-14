@@ -1,7 +1,7 @@
 {
-  "Locale" :
+  "_locale" :
   [
-	{"Key" : "text_language", "Value" : "LANGUAGE"},
-	{"Key" : "button_back", "Value" : "BACK"}
+	{"_key" : "text_language", "_value" : "LANGUAGE"},
+	{"_key" : "button_back", "_value" : "BACK"}
   ]
 }

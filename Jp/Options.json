@@ -1,9 +1,9 @@
 {
-  "Locale" :
+  "_locale" :
   [
-	{"Key" : "text_options", "Value" : "オプション"},
-	{"Key" : "text_music", "Value" : "音楽"},
-	{"Key" : "text_sfx", "Value" : "SFX"},
-	{"Key" : "button_ok", "Value" : "オーケー"}
+	{"_key" : "text_options", "_value" : "オプション"},
+	{"_key" : "text_music", "_value" : "音楽"},
+	{"_key" : "text_sfx", "_value" : "SFX"},
+	{"_key" : "button_ok", "_value" : "オーケー"}
   ]
 }

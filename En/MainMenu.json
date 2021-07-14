@@ -1,10 +1,10 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "text_mainMenu", "Value" : "MAIN MENU"},
-    {"Key" : "button_start", "Value" : "START"},
-    {"Key" : "button_options", "Value" : "OPTIONS"},
-	{"Key" : "button_language", "Value" : "LANGUAGE"},
-	{"Key" : "button_exit", "Value" : "EXIT"}
+	{"_key" : "text_mainMenu", "_value" : "MAIN MENU"},
+    {"_key" : "button_start", "_value" : "START"},
+    {"_key" : "button_options", "_value" : "OPTIONS"},
+	{"_key" : "button_language", "_value" : "LANGUAGE"},
+	{"_key" : "button_exit", "_value" : "EXIT"}
   ]
 }

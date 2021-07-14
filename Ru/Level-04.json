@@ -1,6 +1,6 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "crabby-01", "Value" : "Ты кто?"}
+	{"_key" : "crabby-01", "_value" : "Ты кто?"}
   ]
 }

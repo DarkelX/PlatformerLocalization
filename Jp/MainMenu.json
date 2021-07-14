@@ -1,10 +1,10 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "text_mainMenu", "Value" : "メニュー"},
-    {"Key" : "button_start", "Value" : "開始"},
-    {"Key" : "button_options", "Value" : "オプション"},
-	{"Key" : "button_language", "Value" : "言語"},
-	{"Key" : "button_exit", "Value" : "出口"}
+	{"_key" : "text_mainMenu", "_value" : "メニュー"},
+    {"_key" : "button_start", "_value" : "開始"},
+    {"_key" : "button_options", "_value" : "オプション"},
+	{"_key" : "button_language", "_value" : "言語"},
+	{"_key" : "button_exit", "_value" : "出口"}
   ]
 }

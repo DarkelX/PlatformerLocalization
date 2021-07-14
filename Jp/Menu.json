@@ -1,10 +1,10 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "text_pause", "Value" : "一時停止"},
-    {"Key" : "button_continue", "Value" : "継続する"},
-    {"Key" : "button_options", "Value" : "オプション"},
-	{"Key" : "button_restart", "Value" : "再起動"},
-	{"Key" : "button_exit", "Value" : "出口"}
+	{"_key" : "text_pause", "_value" : "一時停止"},
+    {"_key" : "button_continue", "_value" : "継続する"},
+    {"_key" : "button_options", "_value" : "オプション"},
+	{"_key" : "button_restart", "_value" : "再起動"},
+	{"_key" : "button_exit", "_value" : "出口"}
   ]
 }

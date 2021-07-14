@@ -1,7 +1,7 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "crabby-01", "Value" : "How did you get here? (⊙_⊙;)"},
-	{"Key" : "crabby-02", "Value" : "HellO^_^"}
+	{"_key" : "crabby-01", "_value" : "How did you get here? (⊙_⊙;)"},
+	{"_key" : "crabby-02", "_value" : "HellO^_^"}
   ]
 }

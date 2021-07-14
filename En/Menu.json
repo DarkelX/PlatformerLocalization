@@ -1,10 +1,10 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "text_pause", "Value" : "PAUSE"},
-    {"Key" : "button_continue", "Value" : "CONTINUE"},
-    {"Key" : "button_options", "Value" : "OPTIONS"},
-	{"Key" : "button_restart", "Value" : "RESTART"},
-	{"Key" : "button_exit", "Value" : "EXIT"}
+	{"_key" : "text_pause", "_value" : "PAUSE"},
+    {"_key" : "button_continue", "_value" : "CONTINUE"},
+    {"_key" : "button_options", "_value" : "OPTIONS"},
+	{"_key" : "button_restart", "_value" : "RESTART"},
+	{"_key" : "button_exit", "_value" : "EXIT"}
   ]
 }

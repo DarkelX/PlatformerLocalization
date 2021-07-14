@@ -1,10 +1,10 @@
 {
-  "Locale" : 
+  "_locale" : 
   [
-	{"Key" : "text_mainMenu", "Value" : "МЕНЮ"},
-    {"Key" : "button_start", "Value" : "СТАРТ"},
-    {"Key" : "button_options", "Value" : "ОПЦИИ"},
-	{"Key" : "button_language", "Value" : "ЯЗЫК"},
-	{"Key" : "button_exit", "Value" : "ВЫХОД"}
+	{"_key" : "text_mainMenu", "_value" : "МЕНЮ"},
+    {"_key" : "button_start", "_value" : "СТАРТ"},
+    {"_key" : "button_options", "_value" : "ОПЦИИ"},
+	{"_key" : "button_language", "_value" : "ЯЗЫК"},
+	{"_key" : "button_exit", "_value" : "ВЫХОД"}
   ]
 }
