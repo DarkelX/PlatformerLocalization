@@ -1,0 +1,9 @@
+{
+  "_locale" :
+  [
+	{"_key" : "button_buy", "_value" : "BUY"},
+	{"_key" : "button_use", "_value" : "USE"},
+	{"_key" : "text_doubleJumpInfo", "_value" : "Allows you to jump twice in a row."},
+	{"_key" : "text_superThrowInfo", "_value" : "Allows you to throw multiple swords at once."}
+  ]
+}

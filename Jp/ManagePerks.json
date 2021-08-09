@@ -1,0 +1,9 @@
+{
+  "_locale" :
+  [
+	{"_key" : "button_buy", "_value" : "買う"},
+	{"_key" : "button_use", "_value" : "使用する"},
+	{"_key" : "text_doubleJumpInfo", "_value" : "2回続けてジャンプできます。"},
+	{"_key" : "text_superThrowInfo", "_value" : "一度に複数の剣を投げることができます。"}
+  ]
+}
