@@ -3,6 +3,7 @@
   [
 	{"_key" : "button_buy", "_value" : "КУПИТЬ"},
 	{"_key" : "button_use", "_value" : "ИСПОЛЬЗОВАТЬ"},
+	{"_key" : "text_price", "_value" : "Цена:"},
 	{"_key" : "text_doubleJumpInfo", "_value" : "Позволяет прыгнуть дважды подряд."},
 	{"_key" : "text_superThrowInfo", "_value" : "Позволяет бросить несколько мечей за раз."}
   ]
